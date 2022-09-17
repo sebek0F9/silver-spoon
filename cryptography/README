@@ -1,0 +1,13 @@
+Many thanks to the samples I received from: Microchip, NXP, Maxim/Analog Devices, Silicon Labs.
+Non-production project.
+
+Assembling from scratch. 
+  Designing PCB layout in KiCAD for factory print using gerbers
+  ARM and ARM-based microprocessors with cryptographic co processors
+  Supersingular Isogeny and/or Lattice-based encryption is a must
+  Preferably Edwards Curves.
+  
+Will be comparing several microcontrollers for implementing post-quantum security.
+inspired by projects like NitroKey, GNUK authentication.
+Inspired by NIST-P vulnerabilities being discovered
+Inspired by the Insurgo PrivacyBeast x230
