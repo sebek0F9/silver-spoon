@@ -1,0 +1,18 @@
+inside the bios
+revision 2.0.7 (3.xx)
+
+after losing function of the internal keyboard i had to start using an external, but the mapping for bios functions do not work.
+fn + esc doesn't yeild bios flash.
+fn + esc 3 times does not reveal the advanced menu like it used to. 
+thankfully i can still f2 for the bios itself, and f12 for boot order.
+the company briefly opensourced their tools for legacy versions, which was probably mine (2012).
+segfaults sometimes occur in the gui, in specific areas, so it's been somewhat frustrating. i can more or less navigate.
+there are different versions of the tool, which work for some things and others.
+
+another tool named phoenix seems promising.
+
+using a pomona clip and a raspberry pi, i was able to dump the image via SPI, and reflash, but I still seem to get the default for some options
+I changed.
+
+
+Work in progress for a fully unlocked bios of this.
