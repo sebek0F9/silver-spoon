@@ -1,0 +1,21 @@
+to do: upload pictures.
+
+
+even though this was a fail, I learned some things.
+I became increasingly frustrated for some of the keys, working and not working.
+not suprised, considering it's age.
+
+taking apart the entire laptop, i had the keyboard. and I completely took that apart.
+after some information about keyboard mapping of keys, and some multimeter testing, i learned that the traces were screwed. it was only in one 
+or two areas where the trace cuts off, but enough to affect the function of about 10 keys. yes, the bios keys. sadface.
+
+when i try something, i really go all in. 
+
+this was a 20 dollar keyboard, but id rather fix something when i can. in this case, it might have not been worth the time, but what I ended up
+understanding through a bunch of trial and error was the concept of conductive glue or paint. the best ingredients should include a combination
+of GRAPHITE, REFINED CARBON, and A METAL. the metal should be....the most conductive and in powder form. 
+These ingredients have to be in powder form, it cannot include any chunk, even ones invisible to the naked eye. It must be MACHINED, so that 
+it becomes uniform when solidified. 
+
+anyway, i was able to make GLUE have continuity, but not PAINT. the paint always had resistence which might indicate conductivity, but never got 
+continuity. couldn't use it for the PCB membrane of an ultra thin laptop keyboard.
